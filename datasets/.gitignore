@@ -1,7 +1,0 @@
-venv/
-.env
-chroma_db/
-datasets/
-__pycache__/
-*.pyc
-snapshot.txt
